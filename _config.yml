@@ -1,8 +1,8 @@
 # ----------------------------------------------------------------------------
 # REQUIRED: Update these fields before publishing your site
 # ----------------------------------------------------------------------------
-title: Your Name              # appears in browser tab and header
-author: Your Name             # your name (used in meta tags)
+title: Allie Love              # appears in browser tab and header
+author: Allie Love            # your name (used in meta tags)
 description: A short description of your portfolio site.
 baseurl:   # your repository name, with a leading slash.
                                 # Leave empty if the repo is USERNAME.github.io.
@@ -13,3 +13,4 @@ baseurl:   # your repository name, with a leading slash.
 # ----------------------------------------------------------------------------
 analytics_id:   # paste your Google Analytics measurement ID (G-XXXXXXXXXX)
 search: true    # set to false to disable site search
+theme_css: terra-cotta
