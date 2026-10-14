@@ -131,7 +131,7 @@ Image above text. Laid out by .card-grid; emitted by cards/card-grid.html.
   
   /* Box Model */
   height: 100%;
-  min-height: 20rem;
+  min-height: 15rem;
 }
 
 .v-card .card-img-top {
