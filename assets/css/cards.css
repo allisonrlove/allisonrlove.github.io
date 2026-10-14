@@ -131,13 +131,13 @@ Image above text. Laid out by .card-grid; emitted by cards/card-grid.html.
   
   /* Box Model */
   height: 100%;
-  min-height: 15rem;
+  min-height: 10rem;
 }
 
 .v-card .card-img-top {
   /* Box Model */
   width: 100%;
-  height: 15rem;
+  height: 8rem;
 
   /* Visual */
   overflow: hidden;  /* clips thumbnail-zoom transform */
