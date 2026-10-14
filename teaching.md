@@ -2,7 +2,7 @@
 title: Teaching
 layout: base
 date: 2025-09-30
-homepage: TRUE
+homepage: false
 position: 2
 summary: Replace this with a sentence or two about your teaching — your approach, the courses you teach, or what you most want students to take away. This appears on the homepage card.
 thumbnail: assets/images/great-lecture.jpg

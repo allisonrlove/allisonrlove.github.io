@@ -2,11 +2,11 @@
 title: Curriculum Vitae
 layout: base
 homepage: TRUE
-position: 4
+position: 2
+kicker: Academic record
 summary: Replace this with a one- or two-sentence summary of your CV — what does it show about you? This text appears on the homepage card.
-thumbnail: assets/images/Augustine_Lateran.jpg
-thumbnail-position: top
-thumbnail-zoom: 1.3
+thumbnail: assets/images/cards/patent-electrotherapeutic-instrument.png
+thumbnail-position: center 24%
 ---
 
 # Your Name

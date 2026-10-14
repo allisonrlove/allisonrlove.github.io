@@ -81,7 +81,7 @@ To add a page like a standard "About" page:
 ---
 title: Writing
 layout: base
-homepage: true
+homepage: false
 position: 5
 summary: Interesting facts about me
 thumbnail: assets/images/your-about-page-image.jpg

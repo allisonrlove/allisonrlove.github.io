@@ -3,9 +3,11 @@ title: Creative Work
 layout: base
 date: 2025-09-30
 homepage: TRUE
-position: 3
+position: 1
+kicker: Portfolio
 summary: Replace this with a sentence describing this page — what kind of creative work do you make or curate? This appears on the homepage card.
-thumbnail: assets/images/ai-created-kinetic-sculpture.png
+thumbnail: assets/images/cards/harness-electropathic-belt.jpg
+thumbnail-position: center 12%
 ---
 
 This page is a placeholder for a fourth content area — it's called "Creative Work" here, but it's yours to rename and repurpose. Common uses: a portfolio of creative or artistic projects, a public writing page, a digital projects showcase, a section for journalism or multimedia work.

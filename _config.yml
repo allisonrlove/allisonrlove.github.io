@@ -13,4 +13,4 @@ baseurl:   # your repository name, with a leading slash.
 # ----------------------------------------------------------------------------
 analytics_id:   # paste your Google Analytics measurement ID (G-XXXXXXXXXX)
 search: true    # set to false to disable site search
-theme_css: terra-cotta
+theme_css: electro
